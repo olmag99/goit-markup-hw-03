@@ -266,7 +266,7 @@ ul, ol {
     row-gap: 48px;
 }
 
-.qualities-list-item-1st {
+.qualities-list-item {
     width: calc((100% - 72px) / 4);
 }
 
