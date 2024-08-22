@@ -24,6 +24,7 @@ h2, h3, h4, h5, h6 {
 .visually-hidden {
     position: fixed;
     transform: scale(0);
+    display: none;
 }
 
 img {
@@ -166,7 +167,7 @@ ul, ol {
     gap: 24px;
 }
 
-.qualities-list-item {
+.qualities-list:nth-child(1) {
     width: calc((100% - 72px) / 4);
 }
 
