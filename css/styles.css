@@ -177,7 +177,7 @@ ul, ol {
     gap: 24px;
 }
 
-.qualities-list:nth-child(1) {
+.qualities-list-item {
     flex-basis: calc((100%-3*24px)/4);
 }
 
