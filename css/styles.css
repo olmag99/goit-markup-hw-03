@@ -178,7 +178,8 @@ ul, ol {
 }
 
 .qualities-list-item {
-    flex-basis: calc((100% - 3 * 24px) / 4);
+    width: calc((100% - 72px) / 4);
+    width: calc((100%-72px)/4);
 }
 
 .qualities-header {
@@ -274,10 +275,6 @@ ul, ol {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-}
-
-.qualities-item {
-    width: calc((100% - 3 * 24px) / 4);
 }
 
 .portfolio-list-item-div {
