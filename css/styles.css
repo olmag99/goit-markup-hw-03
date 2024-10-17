@@ -276,8 +276,8 @@ ul, ol {
     row-gap: 48px;
 }
 
-.qualities-list-item {
-    width: calc((100%-3*24px)/4);
+.qualities-item {
+    width: calc((100% - 3 * 24px) / 4);
 }
 
 .portfolio-list-item-div {
